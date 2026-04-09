@@ -18,7 +18,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "is-odd": "^3.0.1",
+    "newman": "^6.2.1",
     "newman-reporter-htmlextra": "^1.23.1"
   }
 }
